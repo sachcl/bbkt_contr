@@ -1,4 +1,4 @@
-# vuln.py — intentionally vulnerable Python code (DO NOT USE IN PRODUCTION)
+# github code
 # Run: pip install flask requests pyyaml
 from flask import Flask, request, Response
 import sqlite3
